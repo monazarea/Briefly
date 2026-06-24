@@ -12,9 +12,9 @@
 
 ## 📸 Screenshots
 
-| Android (News Feed) | iOS (News Feed) | Android (Favorites) | iOS (Favorites) |
+| Android (News Feed) | Android (Favorites) |
 |:---:|:---:|:---:|:---:|
-| ![Android News Screen](screenshots/news.png) | ![iOS News Screen](https://raw.githubusercontent.com/username/repository/main/art/screenshot_ios_news.png) | ![Android Favorites Screen](screenshots/fav.png) | ![iOS Favorites Screen](https://raw.githubusercontent.com/username/repository/main/art/screenshot_ios_favorites.png) |
+| ![Android News Screen](screenshots/news.png) | ![Android Favorites Screen](screenshots/fav.png) |
 
 > [!NOTE]
 > *The screenshot links above are placeholders. Make sure to replace these links with your actual project screenshots once the application is uploaded to your git repository.*
