@@ -1,3 +1,4 @@
+<img width="1344" height="2992" alt="Screenshot_20260625_002137" src="https://github.com/user-attachments/assets/ca91f99c-43d2-4260-bf45-6a18b1497656" />
 # 📰 Briefly — Kotlin Multiplatform News Application
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.0-blueviolet?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
