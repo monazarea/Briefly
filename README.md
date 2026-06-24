@@ -12,9 +12,11 @@
 
 ## 📸 Screenshots
 
-| Android (News Feed) | Android (Favorites) |
-|:---:|:---:|:---:|:---:|
-| ![Android News Screen](screenshots/news.png) | ![Android Favorites Screen](screenshots/fav.png) |
+<div align="center">
+  <img src="screenshots/news.png" alt="Android News Screen" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/fav.png" alt="Android Favorites Screen" width="250" />
+</div>
 
 > [!NOTE]
 > *The screenshot links above are placeholders. Make sure to replace these links with your actual project screenshots once the application is uploaded to your git repository.*
